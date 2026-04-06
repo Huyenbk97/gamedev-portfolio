@@ -167,7 +167,8 @@ function getProjectContent(projectId) {
                             <div class="description-bg">
                                 <div class="project-description">
                                     <p>
-                                I'm Murilo Glasser, a game programmer with five years of experience across platforms like VR, AR, mobile, web, Nintendo Switch, PlayStation, Xbox, and Steam. My education at FACENS and ETEC provided me with strong skills in digital technology, programming, agile methodologies, and software development.                                    </p>
+                              I'm Huyen, a Playable Ads Developer with six years of experience using Unity and Cocos Creator.
+                                   </p>
                                 </div>
                             </div>
 

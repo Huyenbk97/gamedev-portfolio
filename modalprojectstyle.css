@@ -61,27 +61,45 @@
 /* Project video styling */
 .project-video {
     max-width: 100%;
-
 }
 
+.iphone-frame {
+    position: relative;
+    width: 380px;
+    /* Độ rộng của khung iPhone */
+    height: 770px;
+    /* Độ cao của khung iPhone */
+    margin: 0 auto;
+    background-image: url('Images/iphoneframe.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 1;
+}
 
+.iphone-frame iframe {
+    position: absolute;
+    top: 2.2%;
+    /* Điều chỉnh tỉ lệ này tùy theo hình ảnh iphoneframe.png của bạn */
+    left: 4.8%;
+    width: 90.4%;
+    height: 95.6%;
+    border: none !important;
+    border-radius: 35px;
+    /* Bo góc để khớp với màn hình iPhone */
+    box-shadow: none !important;
+}
 
 .project-video-BG {
-    max-width: 70%;
+    width: 100%;
+    max-width: 100%;
     max-height: 100%;
-    background-color: black;
-    padding-top: 50px;
-    margin-top: -50px;
-}
-
-/* Make YouTube videos responsive */
-.project-video iframe {
-    margin-bottom: 13px;
-    max-width: 56.25vh;
-    max-height: 100vh;
-    border: 3px solid #ffffff;
-    box-shadow: 0 2px 10px rgba(255, 255, 255, 0.3);
-    overflow: hidden;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 20px auto;
 }
 
 /* Description background styling */

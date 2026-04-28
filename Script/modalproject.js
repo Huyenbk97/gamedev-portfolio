@@ -236,10 +236,9 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                            
 
                             <div class="project-video-BG">
-                            <div class="project-video">
-                            
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/CakeSort_V20_Huyen_270126_applovin.html" frameborder="0" allowfullscreen></iframe>
-                            </div>
+                                <div class="iphone-frame">
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/CakeSort_V20_Huyen_270126_applovin.html" frameborder="0" allowfullscreen></iframe>
+                                </div>
                             </div>`                   ;
             break;
         case 'project2':
@@ -248,10 +247,9 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                            
 
                             <div class="project-video-BG">
-                            <div class="project-video">
-                            
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/CakeSort_V20_Huyen_270126_applovin.html" frameborder="0" allowfullscreen></iframe>
-                            </div>
+                                <div class="iphone-frame">
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/CakeSort_V20_Huyen_270126_applovin.html" frameborder="0" allowfullscreen></iframe>
+                                </div>
                             </div>
 
                     
@@ -263,10 +261,9 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                            
 
                             <div class="project-video-BG">
-                            <div class="project-video">
-                            
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/ScrewSort.html" frameborder="0" allowfullscreen></iframe>
-                            </div>
+                                <div class="iphone-frame">
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/ScrewSort.html" frameborder="0" allowfullscreen></iframe>
+                                </div>
                             </div>` ;
             break;
         case 'project4':
@@ -275,10 +272,9 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                            
 
                             <div class="project-video-BG">
-                            <div class="project-video">
-                            
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/Hexa_Slinky_Huyen_V1_170924_applovin.html" frameborder="0" allowfullscreen></iframe>
-                            </div>
+                                <div class="iphone-frame">
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/Hexa_Slinky_Huyen_V1_170924_applovin.html" frameborder="0" allowfullscreen></iframe>
+                                </div>
                             </div>
 
                     
@@ -290,10 +286,9 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                            
 
                             <div class="project-video-BG">
-                            <div class="project-video">
-                            
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/Cooking_Sizzle_V1.html" frameborder="0" allowfullscreen></iframe>
-                            </div>
+                                <div class="iphone-frame">
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/Cooking_Sizzle_V1.html" frameborder="0" allowfullscreen></iframe>
+                                </div>
                             </div>
 
                     
@@ -305,10 +300,9 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                            
 
                             <div class="project-video-BG">
-                            <div class="project-video">
-                            
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/GoodsFrenzy_Huyen_V33_191125_Applovin.html" frameborder="0" allowfullscreen></iframe>
-                            </div>
+                                <div class="iphone-frame">
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/GoodsFrenzy_Huyen_V33_191125_Applovin.html" frameborder="0" allowfullscreen></iframe>
+                                </div>
                             </div>
 
                     
@@ -320,10 +314,9 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                            
 
                             <div class="project-video-BG">
-                            <div class="project-video">
-                            
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/LPG-6T8P-892_CoinJam_Huyen_V1_011024_applovin.html" frameborder="0" allowfullscreen></iframe>
-                            </div>
+                                <div class="iphone-frame">
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/LPG-6T8P-892_CoinJam_Huyen_V1_011024_applovin.html" frameborder="0" allowfullscreen></iframe>
+                                </div>
                             </div>
 
                     
@@ -335,10 +328,9 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                            
 
                             <div class="project-video-BG">
-                            <div class="project-video">
-                            
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/LPG-6T8P-892_CoinJam_Huyen_V1_011024_applovin.html" frameborder="0" allowfullscreen></iframe>
-                            </div>
+                                <div class="iphone-frame">
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/LPG-6T8P-892_CoinJam_Huyen_V1_011024_applovin.html" frameborder="0" allowfullscreen></iframe>
+                                </div>
                             </div>
 
                     
@@ -350,10 +342,9 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                            
 
                             <div class="project-video-BG">
-                            <div class="project-video">
-                            
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/CakeSort_V20_Huyen_270126_applovin.html" frameborder="0" allowfullscreen></iframe>
-                            </div>
+                                <div class="iphone-frame">
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/CakeSort_V20_Huyen_270126_applovin.html" frameborder="0" allowfullscreen></iframe>
+                                </div>
                             </div>
 
                     
@@ -365,10 +356,9 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                            
 
                             <div class="project-video-BG">
-                            <div class="project-video">
-                            
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/CakeSort_V20_Huyen_270126_applovin.html" frameborder="0" allowfullscreen></iframe>
-                            </div>
+                                <div class="iphone-frame">
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/CakeSort_V20_Huyen_270126_applovin.html" frameborder="0" allowfullscreen></iframe>
+                                </div>
                             </div>
 
                     
@@ -380,11 +370,9 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                            
 
                             <div class="project-video-BG">
-                            <div class="project-video">
-                            
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/BusCrazy.html
-" frameborder="0" allowfullscreen></iframe>
-                            </div>
+                                <div class="iphone-frame">
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/BusCrazy.html" frameborder="0" allowfullscreen></iframe>
+                                </div>
                             </div>
 
                     
@@ -396,10 +384,9 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                            
 
                             <div class="project-video-BG">
-                            <div class="project-video">
-                            
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/CakeSort_V20_Huyen_270126_applovin.html" frameborder="0" allowfullscreen></iframe>
-                            </div>
+                                <div class="iphone-frame">
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/CakeSort_V20_Huyen_270126_applovin.html" frameborder="0" allowfullscreen></iframe>
+                                </div>
                             </div>
 
                     

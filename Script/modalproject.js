@@ -396,7 +396,52 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
                             <div class="project-video-BG">
                             <div class="project-video"><span class="iframe-close" onclick="closeModal()">&times;</span>
                             
-                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/CakeSort_V20_Huyen_270126_applovin.html" frameborder="0" sandbox="allow-scripts allow-same-origin" allowfullscreen></iframe>
+                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/satis.html" frameborder="0" sandbox="allow-scripts allow-same-origin" allowfullscreen></iframe>
+                            </div>
+                            </div>
+
+                    
+`                   ;
+            break;
+        case 'project13':
+            videoId = 'piHodHzVQ28?si=nf1lvqtgdO9DZ8Jm';
+            projectContent = `
+                           
+
+                            <div class="project-video-BG">
+                            <div class="project-video"><span class="iframe-close" onclick="closeModal()">&times;</span>
+                            
+                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/CarBlast_Huyen_V22_160426_applovin.html" frameborder="0" sandbox="allow-scripts allow-same-origin" allowfullscreen></iframe>
+                            </div>
+                            </div>
+
+                    
+`                   ;
+            break;
+        case 'project14':
+            videoId = 'piHodHzVQ28?si=nf1lvqtgdO9DZ8Jm';
+            projectContent = `
+                           
+
+                            <div class="project-video-BG">
+                            <div class="project-video"><span class="iframe-close" onclick="closeModal()">&times;</span>
+                            
+                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/CupHero_Huyen_V6_030325_Unity.html" frameborder="0" sandbox="allow-scripts allow-same-origin" allowfullscreen></iframe>
+                            </div>
+                            </div>
+
+                    
+`                   ;
+            break;
+        case 'project15':
+            videoId = 'piHodHzVQ28?si=nf1lvqtgdO9DZ8Jm';
+            projectContent = `
+                           
+
+                            <div class="project-video-BG">
+                            <div class="project-video"><span class="iframe-close" onclick="closeModal()">&times;</span>
+                            
+                                <iframe id="youtubeVideo" width="1080" height="1920" src="https://huyenbk97.github.io/DemoPLY/PA49_Corn_Trong_251225_applovin.html" frameborder="0" sandbox="allow-scripts allow-same-origin" allowfullscreen></iframe>
                             </div>
                             </div>
 

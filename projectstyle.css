@@ -20,9 +20,9 @@ body {
 
 /* Individual Project Styles */
 .project {
-    box-shadow: 0 8px 16px rgba(248, 2, 231, 0.7);
+    box-shadow: 0 8px 16px rgba(238, 0, 255, 0.56);
     position: relative;
-    width: calc(21% - 1px);
+    width: calc(21% - 3px);
     height: auto;
     margin: 2%;
     box-sizing: border-box;

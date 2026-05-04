@@ -395,7 +395,24 @@
 
     <!-- Smooth scroll script -->
     <script src="Script/smoothscroll.js"></script>
+    <script>
+        // chặn click link
+        document.addEventListener("click", e => {
+            if (e.target.closest("a")) e.preventDefault();
+        });
 
+        // chặn window.open
+        window.open = () => null;
+
+        // chặn form submit (nếu có)
+        document.addEventListener("submit", e => e.preventDefault());
+    </script>
+    <script>
+        window.addEventListener("beforeunload", function (e) {
+            e.preventDefault();
+            e.returnValue = '';
+        });
+    </script>
 </body>
 
 </html>

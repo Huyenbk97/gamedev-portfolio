@@ -262,7 +262,7 @@ Welcome! This is my demo reel showcasing a selection of my game development proj
 
                             <div class="project-video-BG">
                                 <div class="iphone-frame">
-                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/ScrewSort.html" frameborder="0" allowfullscreen></iframe>
+                                    <iframe id="youtubeVideo" src="https://huyenbk97.github.io/DemoPLY/ScrewSort.html" frameborder="0" sandbox="allow-scripts allow-same-origin" allowfullscreen></iframe>
                                 </div>
                             </div>` ;
             break;
